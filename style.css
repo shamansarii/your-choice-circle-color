@@ -1,0 +1,29 @@
+body {
+	background-image: url(images/image.jpg);
+	background-size: cover;
+    margin: 1em;
+}
+
+div {
+    border: 1px solid black;
+    border-radius: 1000px;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+    transition: 1s;
+}
+
+button {
+	color: black;
+	background-color: #ccc;
+	border: none;
+	padding: 1em;
+	border-radius: 2em;
+}
+
+button:hover {
+    background-color: white;
+}
