@@ -1,18 +1,18 @@
 YOUR CHOICE CIRCLE COLOR
 ------------------------
-
 You can see website here: https://shamansarii.github.io/your-choice-circle-color/.
 
-## WORKSHOP
+### WORKSHOP
 
-IDEA - Let's make a super simple your choice circle color appplication that runs on the web. Your choice in the color and get the circle color.
+1. The app is a soft your choice circle color.Your choice in the color and get the circle color.
 
 ### INGREDIENTS
 
-To make this application, we're going to need to cover the following topics:
-  * HTML - The information represented on the page.
-  * CSS - The style or look of the information.
-  * JAVASCRIPT - The programming language needed to add the necessary behavior (or interaction) to the webpage.
+The app MUST use:
+1. Bootstrap
+2. JQuery for Ajax
 
-### SCREENSHOOT
+The CDNs of all ingredients, along with `script.js` and `style.css` files, have already been linked in the `<head>`.
+
+### SCREENSHOT
 
