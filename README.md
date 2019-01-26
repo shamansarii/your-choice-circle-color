@@ -2,7 +2,7 @@ YOUR CHOICE CIRCLE COLOR
 ------------------------
 You can see website here: https://shamansarii.github.io/your-choice-circle-color/.
 
-### WORKSHOP
+### APP FEATURES
 
 1. The app is a soft your choice circle color.Your choice in the color and get the circle color.
 
