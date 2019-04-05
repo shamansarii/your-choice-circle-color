@@ -16,3 +16,4 @@ The CDNs of all ingredients, along with `script.js` and `style.css` files, have 
 
 ### SCREENSHOT
 
+![your-choice-circle-color](https://user-images.githubusercontent.com/46775349/55642681-94af7000-57ea-11e9-9697-87beaedef31f.png).
